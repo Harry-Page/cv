@@ -37,6 +37,18 @@ h3, a {
   color: #11999E;
 }
 
+.about-me {
+  padding: 8px;
+}
+
+.work {
+  padding: 8px;
+}
+
+.homepage {
+  padding: 8px;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 300px;
