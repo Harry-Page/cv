@@ -19,6 +19,10 @@ hr {
   height: 25.5rem;
 }
 
+.profile {
+  padding: 100px 0;
+}
+
 h1 {
   color: #66BFBF;
   font-family: 'Sacramento', cursive;
